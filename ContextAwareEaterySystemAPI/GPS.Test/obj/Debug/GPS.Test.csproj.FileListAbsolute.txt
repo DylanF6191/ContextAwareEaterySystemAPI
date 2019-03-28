@@ -1,0 +1,334 @@
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\GPS.Test.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\GPS.Test.pdb
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.Win32.Primitives.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\netstandard.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.AppContext.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Collections.Concurrent.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Collections.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Collections.NonGeneric.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Collections.Specialized.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ComponentModel.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ComponentModel.Primitives.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ComponentModel.TypeConverter.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Console.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Data.Common.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Contracts.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Debug.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Process.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.StackTrace.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Tools.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.TraceSource.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Tracing.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Drawing.Primitives.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Dynamic.Runtime.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Globalization.Calendars.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Globalization.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Globalization.Extensions.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.Compression.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.Compression.ZipFile.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.FileSystem.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.FileSystem.Primitives.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.FileSystem.Watcher.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.IsolatedStorage.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.MemoryMappedFiles.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.Pipes.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Linq.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Linq.Expressions.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Linq.Parallel.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Linq.Queryable.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Http.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.NameResolution.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.NetworkInformation.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Ping.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Primitives.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Requests.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Security.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Sockets.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.WebHeaderCollection.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.WebSockets.Client.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.WebSockets.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ObjectModel.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Reflection.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Reflection.Extensions.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Reflection.Primitives.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Resources.Reader.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Resources.ResourceManager.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Resources.Writer.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Extensions.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Handles.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.InteropServices.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Numerics.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Serialization.Formatters.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Serialization.Json.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Serialization.Primitives.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Serialization.Xml.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Claims.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.Csp.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.Encoding.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.Primitives.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Principal.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.SecureString.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Text.Encoding.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Text.Encoding.Extensions.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Text.RegularExpressions.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Overlapped.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Tasks.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Tasks.Parallel.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Thread.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.ThreadPool.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Timer.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ValueTuple.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.ReaderWriter.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XDocument.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XmlDocument.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XmlSerializer.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XPath.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XPath.XDocument.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\ContextAwareEaterySystemAPI.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\ContextAwareEaterySystemAPI.pdb
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.csprojAssemblyReference.cache
+H:\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.csproj.CoreCompileInputs.cache
+H:\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.csproj.CopyComplete
+H:\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.dll
+H:\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.pdb
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\GPS.Test.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\GPS.Test.pdb
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.Win32.Primitives.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\netstandard.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.AppContext.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Collections.Concurrent.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Collections.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Collections.NonGeneric.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Collections.Specialized.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ComponentModel.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ComponentModel.Primitives.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ComponentModel.TypeConverter.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Console.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Data.Common.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Contracts.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Debug.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Process.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.StackTrace.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Tools.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.TraceSource.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Tracing.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Drawing.Primitives.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Dynamic.Runtime.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Globalization.Calendars.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Globalization.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Globalization.Extensions.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.Compression.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.Compression.ZipFile.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.FileSystem.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.FileSystem.Primitives.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.FileSystem.Watcher.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.IsolatedStorage.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.MemoryMappedFiles.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.Pipes.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Linq.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Linq.Expressions.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Linq.Parallel.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Linq.Queryable.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Http.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.NameResolution.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.NetworkInformation.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Ping.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Primitives.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Requests.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Security.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Sockets.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.WebHeaderCollection.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.WebSockets.Client.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.WebSockets.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ObjectModel.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Reflection.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Reflection.Extensions.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Reflection.Primitives.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Resources.Reader.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Resources.ResourceManager.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Resources.Writer.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Extensions.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Handles.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.InteropServices.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Numerics.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Serialization.Formatters.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Serialization.Json.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Serialization.Primitives.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Serialization.Xml.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Claims.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.Csp.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.Encoding.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.Primitives.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Principal.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.SecureString.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Text.Encoding.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Text.Encoding.Extensions.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Text.RegularExpressions.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Overlapped.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Tasks.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Tasks.Parallel.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Thread.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.ThreadPool.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Timer.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ValueTuple.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.ReaderWriter.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XDocument.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XmlDocument.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XmlSerializer.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XPath.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XPath.XDocument.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\ContextAwareEaterySystemAPI.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\ContextAwareEaterySystemAPI.pdb
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+I:\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+I:\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.csprojResolveAssemblyReference.cache
+I:\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.csproj.CoreCompileInputs.cache
+I:\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.dll
+I:\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.pdb
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\GPS.Test.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\GPS.Test.pdb
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.Win32.Primitives.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\netstandard.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.AppContext.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Collections.Concurrent.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Collections.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Collections.NonGeneric.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Collections.Specialized.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ComponentModel.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ComponentModel.Primitives.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ComponentModel.TypeConverter.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Console.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Data.Common.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Contracts.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Debug.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Process.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.StackTrace.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Tools.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.TraceSource.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Diagnostics.Tracing.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Drawing.Primitives.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Dynamic.Runtime.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Globalization.Calendars.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Globalization.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Globalization.Extensions.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.Compression.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.Compression.ZipFile.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.FileSystem.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.FileSystem.Primitives.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.FileSystem.Watcher.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.IsolatedStorage.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.MemoryMappedFiles.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.Pipes.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Linq.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Linq.Expressions.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Linq.Parallel.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Linq.Queryable.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Http.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.NameResolution.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.NetworkInformation.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Ping.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Primitives.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Requests.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Security.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.Sockets.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.WebHeaderCollection.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.WebSockets.Client.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Net.WebSockets.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ObjectModel.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Reflection.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Reflection.Extensions.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Reflection.Primitives.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Resources.Reader.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Resources.ResourceManager.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Resources.Writer.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Extensions.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Handles.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.InteropServices.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Numerics.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Serialization.Formatters.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Serialization.Json.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Serialization.Primitives.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Runtime.Serialization.Xml.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Claims.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.Algorithms.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.Csp.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.Encoding.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.Primitives.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.Principal.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Security.SecureString.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Text.Encoding.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Text.Encoding.Extensions.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Text.RegularExpressions.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Overlapped.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Tasks.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Tasks.Parallel.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Thread.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.ThreadPool.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Threading.Timer.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.ValueTuple.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.ReaderWriter.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XDocument.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XmlDocument.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XmlSerializer.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XPath.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\System.Xml.XPath.XDocument.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\ContextAwareEaterySystemAPI.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\ContextAwareEaterySystemAPI.pdb
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.csprojResolveAssemblyReference.cache
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.csproj.CoreCompileInputs.cache
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.dll
+I:\Coursework 2 DF\ContextAwareEaterySystemAPI\GPS.Test\obj\Debug\GPS.Test.pdb
